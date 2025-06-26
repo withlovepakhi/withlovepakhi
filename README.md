@@ -1,10 +1,8 @@
-- @withlovepakhi
-- books, music, love, and chai-coffee 
-- currently learning python
-- she/her 
-- always open to interactions
+Taps and launches. Interfaces and aerospace.
+UI/UX with interest in aerospace
+Built from a town in India.
 
-<!---
-withlovepakhi/withlovepakhi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🧪 Current Phase - 
+Phase 1: Foundation: Set up systems, rebuild UIs, read NASA/ESA docs, publish first AeroUX blogs
+
+Reach me - 
